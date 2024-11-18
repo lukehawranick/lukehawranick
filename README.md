@@ -31,7 +31,7 @@ I'm an undergraduate student of Mathematics and Computer Science at West Virgini
 
 ---
 
-## 📂 Projects
+<!--## 📂 Projects
 
 Here are some of the projects I’m most proud of:
 
@@ -41,7 +41,7 @@ Here are some of the projects I’m most proud of:
 
 Feel free to explore my repositories and contribute!
 
----
+----->
 
 ## 📬 Get in Touch
 
