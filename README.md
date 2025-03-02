@@ -6,7 +6,7 @@ I'm an undergraduate student of Mathematics and Computer Science at West Virgini
 
 ## 🚀 About Me
 
-- 📚 Currently working on: A Compiler for a minimal dialect of C written in Java for WVU's CS 410, A prototype OS written in C for WVU's CS 450.
+- 📚 Currently working on: A prototype OS written in C for WVU's CS 450.
 - 💻 I am experienced with: Python, C, Java, JavaScript, TypeScript.
 - 🌱 Currently learning: Computational Complexity (Papadimitriou), Combinatorics (West).
 - 👯 I’m looking to collaborate on: Reseach papers and open-source projects.
